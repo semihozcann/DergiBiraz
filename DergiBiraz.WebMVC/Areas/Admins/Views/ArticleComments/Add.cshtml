@@ -1,0 +1,36 @@
+﻿@model DergiBiraz.WebMVC.Models.ArticleComments.ArticleCommentAddViewModel
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Areas/Admins/Views/Shared/_AdminLayout.cshtml";
+}
+
+<main id="main" class="main">
+
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Yeni Yorum Ekleme Formu</h5>
+
+            <!-- Vertical Form -->
+            <form class="row g-3" asp-controller="ArticleComments" asp-action="Add" method="post" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="col-12">
+                    <input asp-for="ArticleId" type="hidden" value="@Model.ArticleId" name="ImageUrl" class="form-control" />
+                </div>
+                <div class="col-12">
+                    <input asp-for="UserId" type="hidden" value="@CurrentUser.Id" name="ImageUrl" class="form-control" />
+                </div>
+                <div class="col-12">
+                    <textarea id="mce_0" asp-for="Content" name="Content" class="tinymce-editor" placeholder="Yazı İçeriği"></textarea>
+                </div>
+                <div class="text-center">
+                    <button type="submit" class="btn btn-primary" id="btn-add">Ekle</button>
+                    <a type="button" href="/Admins/Writers/GetAllWriters" class="btn btn-secondary">Vazgeç</a>
+                </div>
+            </form><!-- Vertical Form -->
+        </div>
+    </div>
+
+
+
+</main><!-- End #main -->
+

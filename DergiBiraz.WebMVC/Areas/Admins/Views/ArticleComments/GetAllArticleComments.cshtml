@@ -1,0 +1,62 @@
+﻿@model DergiBiraz.WebMVC.Models.ArticleComments.ArticleCommentListViewModel
+@{
+    ViewData["Title"] = "GetAllArticleComments";
+    Layout = "~/Areas/Admins/Views/Shared/_AdminLayout.cshtml";
+}
+
+<main id="main" class="main">
+
+    @*Article Data Table Start*@
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Yazılar Listesi</h5>
+                        @if (Model != null)
+                        {
+                            <!-- Table with stripped rows -->
+                            <table class="table datatable" id="articlesTable">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">ID</th>
+                                        <th scope="col">Yazı Adı</th>
+                                        <th scope="col">Yorumu Yazan Kişi</th>
+                                        <th scope="col">Eklenme Tarihi</th>
+                                        <th scope="col">Yorum İçeriği</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var articleComment in Model.ArticleComments)
+                                    {
+                                        <tr>
+                                            <th scope="row">@articleComment.Id</th>
+                                            <td>@articleComment.Article.Name</td>
+                                            <td>@articleComment.User.Name @articleComment.User.LastName</td>
+                                            <td>@articleComment.CreatedDate</td>
+                                            <td><a type="button" href="/Admins/ArticleComments/GetArticleCommentDetail/@articleComment.Id" class="btn btn-outline-warning">İçerik</a></td>
+
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                            <!-- End Table with stripped rows -->
+                        }
+                        else
+                        {
+                            <p>Hiç Yorum Bulunamadı</p>
+                        }
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    @*Article Data Table End*@
+
+
+
+
+
+</main><!-- End #main -->
+

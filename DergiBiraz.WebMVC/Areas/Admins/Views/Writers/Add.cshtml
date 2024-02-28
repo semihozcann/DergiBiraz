@@ -1,0 +1,120 @@
+﻿@model DergiBiraz.WebMVC.Models.Writers.WriterAddViewModel
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Areas/Admins/Views/Shared/_AdminLayout.cshtml";
+}
+
+<main id="main" class="main">
+
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Yazar Ekleme Formu</h5>
+
+            <!-- Vertical Form -->
+            <form class="row g-3" asp-controller="Writers" asp-action="Add" method="post" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="col-12">
+                    <label for="inputNanme4" class="form-label">Yazar Adı</label>
+                    <input asp-for="FirstName" id="FirstName" type="text" class="form-control" placeholder="Yazar Adı">
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+                <div class="col-12">
+                    <label for="inputEmail4" class="form-label">Yazar Soyadı</label>
+                    <input asp-for="LastName" id="LastName" type="text" class="form-control" placeholder="Yazar Soyadı">
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+                <div class="col-12">
+                    <label for="inputPassword4" class="form-label">Açıklama</label>
+                    <input asp-for="Description" id="Description" type="text" class="form-control" placeholder="Açıklama">
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+                <div class="col-12">
+                    <label for="inputPassword4" class="form-label">Meslek</label>
+                    <input asp-for="Job" id="Job" type="text" class="form-control" placeholder="Meslek">
+                    <span asp-validation-for="Job" class="text-danger"></span>
+                </div>
+                <div class="col-12">
+                    <label for="inputPassword4" class="form-label">Instagram Hesabı</label>
+                    <input asp-for="InstagramUrl" id="InstagramUrl" type="text" class="form-control" placeholder="Instagram">
+                    <span asp-validation-for="InstagramUrl" class="text-danger"></span>
+                </div>
+                <div class="col-12">
+                    <label for="inputPassword4" class="form-label">Twitter Hesabı</label>
+                    <input asp-for="TwitterUrl" id="TwitterUrl" type="text" class="form-control" placeholder="Twitter">
+                    <span asp-validation-for="TwitterUrl" class="text-danger"></span>
+                </div>
+                <div class="col-12">
+                    <label for="inputPassword4" class="form-label">Facebook Hesabı</label>
+                    <input asp-for="FacebookUrl" id="FacebookUrl" type="text" class="form-control" placeholder="Facebook">
+                    <span asp-validation-for="FacebookUrl" class="text-danger"></span>
+                </div>
+                <div class="col-12">
+                    <label for="inputPassword4" class="form-label">linkedIn Hesabı</label>
+                    <input asp-for="LinkedInUrl" id="LinkedInUrl" type="text" class="form-control" placeholder="LinkedIn">
+                    <span asp-validation-for="LinkedInUrl" class="text-danger"></span>
+                </div>
+                <div class="text-center">
+                    <button type="submit" class="btn btn-primary" id="btn-add">Ekle</button>
+                    <a type="button" href="/Admins/Writers/GetAllWriters" class="btn btn-secondary">Vazgeç</a>
+                </div>
+            </form><!-- Vertical Form -->
+
+        </div>
+    </div>
+
+
+
+
+
+</main><!-- End #main -->
+
+@*<script>
+    document.getElementById("btn-add").addEventListener("click", function (e) {
+        e.preventDefault();
+
+        // Form verilerini toplamak için bir JavaScript objesi oluşturun
+        const writerData = {
+            FirstName: document.getElementById("FirstName").value,
+            LastName: document.getElementById("LastName").value,
+            Description: document.getElementById("Description").value,
+            Job: document.getElementById("Job").value,
+            InstagramUrl: document.getElementById("InstagramUrl").value,
+            TwitterUrl: document.getElementById("TwitterUrl").value,
+            FacebookUrl: document.getElementById("FacebookUrl").value,
+            LinkedInUrl: document.getElementById("LinkedInUrl").value
+        };
+
+        // Yazar ekleme isteği
+        fetch('/Admins/Writers/Add', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(writerData)
+        })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    // Başarılı ekleme durumunda yönlendirme veya başka bir işlem yapabilirsiniz.
+                    Swal.fire(
+                        'Başarılı',
+                        'Yazar başarıyla eklenmiştir',
+                        'success'
+                    );
+                } else {
+                    // Hata durumunda kullanıcıya bilgi verin.
+                    Swal.fire(
+                        'Hata',
+                        'Yazar eklenemedi',
+                        'error'
+                    );
+                }
+            });
+    });
+
+
+
+
+
+</script>*@
+

@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - DergiBiraz.WebMVC</title>
+    
+    @await Html.PartialAsync("_AdminLayoutCssPartial")
+
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+    <script>
+        tinymce.init({
+            selector: 'textarea#tiny'
+                                    plugins: [
+                'a11ychecker', 'advlist', 'advcode', 'advtable', 'autolink', 'checklist', 'export',
+                'lists', 'link', 'image', 'charmap', 'preview', 'anchor', 'searchreplace', 'visualblocks',
+                'powerpaste', 'fullscreen', 'formatpainter', 'insertdatetime', 'media', 'table', 'help', 'wordcount'
+            ],
+            toolbar: 'undo redo | a11ycheck casechange blocks | bold italic backcolor | alignleft aligncenter alignright alignjustify |' +
+                'bullist numlist checklist outdent indent | removeformat | code table help'
+        })
+    </script>
+
+</head>
+<body>
+    
+    <script src="~/lib/jquery/dist/jquery-3.3.1.js"></script>
+
+    <partial name="_AdminHeader" />
+
+    
+
+    <partial name="_AdminSideBar" />
+
+    <main role="main" class="main">
+        <div class="pagetitle">
+            @RenderBody()
+        </div>
+    </main>
+
+    <partial name="_AdminFooter" />
+
+
+
+    @await Html.PartialAsync("_AdminLayoutJsPartial");
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

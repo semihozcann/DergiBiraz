@@ -1,0 +1,30 @@
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Entities\bin\Debug\net5.0\DergiBiraz.Entities.deps.json
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Entities\bin\Debug\net5.0\DergiBiraz.Entities.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Entities\bin\Debug\net5.0\DergiBiraz.Entities.pdb
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.AssemblyInfo.cs
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\refint\DergiBiraz.Entities.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.pdb
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\ref\DergiBiraz.Entities.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Entities\bin\Debug\net5.0\DergiBiraz.Core.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Entities\bin\Debug\net5.0\DergiBiraz.Core.pdb
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.csproj.CopyComplete
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Entities\bin\Debug\net5.0\DergiBiraz.Entities.deps.json
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Entities\bin\Debug\net5.0\DergiBiraz.Entities.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Entities\bin\Debug\net5.0\DergiBiraz.Entities.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Entities\bin\Debug\net5.0\DergiBiraz.Core.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Entities\bin\Debug\net5.0\DergiBiraz.Core.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.AssemblyInfo.cs
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.csproj.CopyComplete
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\refint\DergiBiraz.Entities.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\DergiBiraz.Entities.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Entities\obj\Debug\net5.0\ref\DergiBiraz.Entities.dll

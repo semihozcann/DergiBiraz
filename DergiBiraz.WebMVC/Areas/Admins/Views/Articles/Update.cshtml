@@ -1,0 +1,81 @@
+﻿@model DergiBiraz.WebMVC.Models.Articles.ArticleUpdateViewModel
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Areas/Admins/Views/Shared/_AdminLayout.cshtml";
+}
+
+<main id="main" class="main">
+
+    <div class="card">
+        <div class="card-body pt-3">
+            <!-- Bordered Tabs -->
+            <ul class="nav nav-tabs nav-tabs-bordered" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <a class="nav-link" type="button" href="/Admins/Articles/GetArticleDetail/@Model.Id">Yazı Detayları</a>
+                </li>
+
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#profile-overview" aria-selected="false" tabindex="-1" role="tab">Yazıyı Güncelle</button>
+                </li>
+
+            </ul>
+            <div class="tab-content pt-2">
+                <div class="tab-pane fade show active profile-overview" id="profile-overview" role="tabpanel">
+                    <br />
+                    <div class="container">
+                        <form class="row g-3" asp-controller="Articles" asp-action="Update" method="post" enctype="multipart/form-data">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="row mb-3">
+                                <label for="inputPassword4" class="form-label"><strong>Yazar</strong></label>
+                                @Html.DropDownListFor(x=>x.WriterId, (List<SelectListItem>)Model.WritersForDr, new { @class = "form-control"})
+                            </div>
+                            <div class="row mb-3">
+                                <label for="inputPassword4" class="form-label"><strong>Yazı Kategorisi</strong></label>
+                                @Html.DropDownListFor(x=>x.CategoryId, (List<SelectListItem>)Model.CategoriesForDr, new { @class = "form-control"})
+                            </div>
+                            <div class="row mb-3">
+                                <label for="inputPassword4" class="form-label"><strong>Yazı Başlığı</strong></label>
+                                <input asp-for="Name" id="Name" type="text" class="form-control" placeholder="Yazı Başlığı">
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+                            <div class="row mb-3">
+                                @if (Model.OldImageUrl != null)
+                                {
+                                    <div class="row mb-3">
+                                        <label for="inputPassword4" class="form-label"><strong>Yeni Resm Seç</strong></label>
+                                        <img id="articleImageInUpdatePage" src="@Model.OldImageUrl" alt="" />
+                                        <input asp-for="ImageUrl" type="file" name="ImageUrl" class="form-control" />
+                                    </div>
+                                    
+                                }
+                                else
+                                {
+                                    <div class="row mb-3">
+                                        <label for="inputPassword4" class="form-label"><strong>Yeni Resm Seç</strong></label>
+                                        <img id="articleImageInUpdatePage" src="/defaultImage/defaultImage.jpg" alt="" />
+                                        <input asp-for="ImageUrl" type="file" name="ImageUrl" class="form-control" />
+                                    </div>
+                                    
+                                }
+                            </div>
+                            <div class="row mb-3">
+                                <label for="inputPassword4" class="form-label"><strong>Yazı İçeriği</strong></label>
+                                <textarea id="mce_0" asp-for="Content" name="Content" class="tinymce-editor" placeholder="Yazı İçeriği"></textarea>
+                            </div>
+                            <div class="text-center">
+                                <button type="submit" class="btn btn-primary" id="btn-add">Güncelle</button>
+                                <a type="button" href="/Admins/Articles/GetArticleDetail/@Model.Id" class="btn btn-secondary">Vazgeç</a>
+                            </div>
+                        </form><!-- Vertical Form -->
+                    </div>
+                </div>
+
+            </div><!-- End Bordered Tabs -->
+
+        </div>
+    </div>
+
+
+
+
+</main><!-- End #main -->

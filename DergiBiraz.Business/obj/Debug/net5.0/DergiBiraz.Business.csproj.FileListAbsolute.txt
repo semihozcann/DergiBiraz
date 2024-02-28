@@ -1,0 +1,38 @@
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.Business.deps.json
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.Business.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.Business.pdb
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.Entities.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.Entities.pdb
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.AssemblyInfo.cs
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.csproj.CopyComplete
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\refint\DergiBiraz.Business.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.pdb
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\ref\DergiBiraz.Business.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.DataAccess.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.DataAccess.pdb
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.Core.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.Core.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.Business.deps.json
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.Business.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.Business.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.Core.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.DataAccess.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.Entities.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.DataAccess.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.Entities.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\bin\Debug\net5.0\DergiBiraz.Core.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.AssemblyInfo.cs
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.csproj.CopyComplete
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\refint\DergiBiraz.Business.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\DergiBiraz.Business.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Business\obj\Debug\net5.0\ref\DergiBiraz.Business.dll

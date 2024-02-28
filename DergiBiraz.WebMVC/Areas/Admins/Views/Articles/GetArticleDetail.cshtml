@@ -1,0 +1,104 @@
+﻿@model DergiBiraz.WebMVC.Models.Articles.ArticleDetailViewModel
+@{
+    ViewData["Title"] = "GetArticleDetail";
+    Layout = "~/Areas/Admins/Views/Shared/_AdminLayout.cshtml";
+}
+
+<main id="main" class="main">
+
+    <div class="card">
+        <div class="card-body pt-3">
+            <!-- Bordered Tabs -->
+            <ul class="nav nav-tabs nav-tabs-bordered" role="tablist">
+                
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#profile-overview" aria-selected="true" role="tab">Yazı Detayları</button>
+                </li>
+
+                <li class="nav-item" role="presentation">
+                    <a class="nav-link" type="button" href="/Admins/Articles/Update/@Model.Article.Id">Yazıyı Güncelle</a>
+                </li>
+
+                <li class="nav-item" role="presentation">
+                    <a type="submit" onclick="submitResult(event)" data-article-id="@Model.Article.Id" id="btn-delete" href="/Admins/Articles/Delete/@Model.Article.Id" class="btn btn-outline-danger">Sil</a>
+                </li>
+
+            </ul>
+            <div class="tab-content pt-2">
+
+                <div class="tab-pane fade show active profile-overview" id="profile-overview" role="tabpanel">
+                    <h5 class="card-title">@Model.Article.Name</h5>
+
+                    @if (Model.Article.ImageUrl != null)
+                    {
+                        <img id="articleImageInGetArticleDetail" src="@Model.Article.ImageUrl" alt="" />
+                    }
+                    else
+                    {
+                        <img id="articleImageInGetArticleDetail" src="/defaultImage/defaultImage.jpg" alt="" />
+                    }
+
+                    <p>@Html.Raw(@Model.Article.Content)</p>
+
+                    <h5 class="card-title">Yayınlanma Tarihi</h5>
+                    <h6>@Model.Article.CreatedDate</h6>
+
+                    <h5 class="card-title">Yazar Bilgisi</h5>
+                    <h6>@Model.Article.Writer.FirstName @Model.Article.Writer.LastName</h6>
+
+                </div>
+
+            </div><!-- End Bordered Tabs -->
+
+        </div>
+    </div>
+
+    <script>
+        function submitResult(e) {
+            e.preventDefault();
+            const articleId = e.target.getAttribute("data-article-id");
+            if (!articleId) {
+                console.error("Veri kimliği alınamadı.");
+                return;
+            }
+
+            Swal.fire({
+                title: 'Yazıyı Silmek İstediğinize Emin Misiniz?',
+                text: "Eğer kabul ederseniz seçtiğiniz yazı silinecektir.",
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonColor: '#3085d6',
+                cancelButtonColor: '#d33',
+                confirmButtonText: 'Evet Kabul Ediyorum',
+                cancelButtonText: 'Vazgeç',
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    fetch(`/Admins/Articles/Delete/${articleId}`, {
+                        method: 'DELETE',
+                    }).then(response => {
+                        if (response.ok) {
+                            Swal.fire(
+                                'Yazı Silindi',
+                                'Seçili yazı başarıyla silinmiştir',
+                                'success'
+                            ).then(() => {
+                                // Yönlendirme işlemi burada gerçekleşiyor
+                                window.location.href = '/Admins/Articles/GetAllArticles';
+                            });
+                        } else {
+                            Swal.fire(
+                                'Hata',
+                                'Yazı silinirken bir hata oluştu',
+                                'error'
+                            );
+                        }
+                    });
+                }
+            });
+        }
+    </script>
+
+
+
+</main><!-- End #main -->
+

@@ -1,0 +1,30 @@
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Core\bin\Debug\net5.0\DergiBiraz.Core.deps.json
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Core\bin\Debug\net5.0\DergiBiraz.Core.runtimeconfig.json
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Core\bin\Debug\net5.0\DergiBiraz.Core.runtimeconfig.dev.json
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Core\bin\Debug\net5.0\DergiBiraz.Core.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Core\bin\Debug\net5.0\DergiBiraz.Core.pdb
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.AssemblyInfo.cs
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\refint\DergiBiraz.Core.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.pdb
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.genruntimeconfig.cache
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\ref\DergiBiraz.Core.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Core\bin\Debug\net5.0\DergiBiraz.Core.deps.json
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Core\bin\Debug\net5.0\DergiBiraz.Core.runtimeconfig.json
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Core\bin\Debug\net5.0\DergiBiraz.Core.runtimeconfig.dev.json
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Core\bin\Debug\net5.0\DergiBiraz.Core.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Core\bin\Debug\net5.0\DergiBiraz.Core.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.AssemblyInfo.cs
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\refint\DergiBiraz.Core.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\DergiBiraz.Core.genruntimeconfig.cache
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.Core\obj\Debug\net5.0\ref\DergiBiraz.Core.dll

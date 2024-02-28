@@ -1,0 +1,40 @@
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.DataAccess.deps.json
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.DataAccess.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.DataAccess.pdb
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.Entities.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.Entities.pdb
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.AssemblyInfo.cs
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.csproj.CopyComplete
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\refint\DergiBiraz.DataAccess.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.pdb
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\ref\DergiBiraz.DataAccess.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.DataAccess.runtimeconfig.json
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.DataAccess.runtimeconfig.dev.json
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.genruntimeconfig.cache
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.Core.dll
+C:\Users\semih\Desktop\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.Core.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.DataAccess.deps.json
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.DataAccess.runtimeconfig.json
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.DataAccess.runtimeconfig.dev.json
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.DataAccess.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.DataAccess.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.Core.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.Entities.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.Entities.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\bin\Debug\net5.0\DergiBiraz.Core.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.AssemblyInfo.cs
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.csproj.CopyComplete
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\refint\DergiBiraz.DataAccess.dll
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.pdb
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\DergiBiraz.DataAccess.genruntimeconfig.cache
+C:\Users\semih\Desktop\yazılım\C# Kodları\dergi\DergiBiraz\DergiBiraz.DataAccess\obj\Debug\net5.0\ref\DergiBiraz.DataAccess.dll
